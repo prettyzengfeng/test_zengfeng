@@ -3,3 +3,4 @@
 otherbranch master
 push master --> master
 remote --> localhost
+localhost push --> remote
